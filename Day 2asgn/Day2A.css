@@ -1,0 +1,71 @@
+.head{
+    color: rgb(10, 29, 55);
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-style: oblique;
+    text-decoration: lightcoral;
+    background-color: rgb(255, 189, 155);
+    height: 100px;
+    text-align-last: center;
+    padding: 5px 10px 5px 10px;
+    margin: 10px;
+    font-size: 100px;
+    
+
+}
+body{
+    background-color: FFBD9B;
+    background-color: rgb(255, 238, 219);
+}
+.para{
+    color:rgb(10, 29, 55);
+    font-size: larger;
+
+    font-style: italic;
+    background-color: beige;
+    border-radius: 3px;
+    /* padding: 5px 10px 5px 10px;
+    margin: 25px; */
+    text-align: center;
+}
+.para2{
+    color: rgb(10, 29, 55);
+    font-style: bold italic ;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:lightsalmon;
+    text-align: center;
+    font-size: 40px;
+}
+
+.category{
+    padding-top:25px;
+    padding-bottom: 25px;
+    background-color: rgb(255, 238, 219);
+    display: flex;
+    align-items: center top;
+    flex-direction: column;
+    font-family: segoe UI;
+}
+.filling{
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 40%;
+    height: 400px;
+    align-items: center;
+    
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .text{
+      font-size: 25px;
+      font-family: 'Times New Roman', Times, serif;
+      color: rgb(38, 42, 83);
+      text-align: center;
+      padding-top: 50px;
+  }
+ 
